@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Production Kubernetes (GKE) deployments and automated CI/CD pipelines.<br>🌱 I’m currently learning: Advanced Cloud Security & GitOps (ArgoCD).<br>👯 I’m looking to collaborate on: Cloud automation, modular Terraform setups, and DevOps tooling.<br>💬 Ask me about: GCP, AWS, Terraform, Docker, Kubernetes, and Go/Python scripting.<br>⚡ Fun fact: I hold a B.Sc. in Applied Mathematics and love designing modular systems with zero-downtime tolerance.
+🔭 I’m currently working on: Production Kubernetes (GKE) deployments and automated CI/CD pipelines.<br>🌱 I’m currently learning: Advanced Cloud Networking, Helm, Prefect, and deepening my hands-on expertise in GCP, AWS, and PostgreSQL.<br>👯 I’m looking to collaborate on: Cloud automation, modular Terraform setups, and DevOps tooling.<br>💬 Ask me about: GCP, AWS, Terraform, Docker, Kubernetes, and Go/Python scripting.<br>⚡ Fun fact: I hold a B.Sc. in Applied Mathematics and love designing modular systems with zero-downtime tolerance.
 
 
 ## 🌐 Socials:
